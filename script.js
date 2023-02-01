@@ -1,13 +1,13 @@
 var favChannels = [
-    {img_url : "/home/img/channels/Discovery.jpg"},
-    {img_url : "/home/img/channels/Docubay.jpg"},
-    {img_url : "/home/img/channels/Erosnow.jpg"},
-    {img_url : "/home/img/channels/Hayu.jpg"},
-    {img_url : "/home/img/channels/hoichoi.jpg"},
-    {img_url : "/home/img/channels/LionsgatePlay.jpg"},
-    {img_url : "/home/img/channels/MANORAMAMAX.jpg"},
-    {img_url : "/home/img/channels/Mubi.jpg"},
-    {img_url : "/home/img/channels/ShortsTV.jpg"},
+    {img_url : "img/channels/Discovery.jpg"},
+    {img_url : "img/channels/Docubay.jpg"},
+    {img_url : "img/channels/Erosnow.jpg"},
+    {img_url : "img/channels/Hayu.jpg"},
+    {img_url : "img/channels/hoichoi.jpg"},
+    {img_url : "img/channels/LionsgatePlay.jpg"},
+    {img_url : "img/channels/MANORAMAMAX.jpg"},
+    {img_url : "img/channels/Mubi.jpg"},
+    {img_url : "img/channels/ShortsTV.jpg"},
 ];
 favChannels.map(function (elem){
     var div = document.createElement('div');
